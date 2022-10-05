@@ -1,0 +1,36 @@
+.form {
+    background-color: #fffaf2;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    padding: 0px 30px;
+    justify-content: space-between;
+}
+
+.subject {
+    border-radius: 10px;
+    background-color: azure;
+    border: 1px solid #5ed3b1;
+    width: 250px;
+    height: 40px;
+    margin: 10px;
+    margin-right: 20px;
+}
+
+.content {
+    border-radius: 10px;
+    background-color: azure;
+    border: 1px solid #5ed3b1;
+    width: 250px;
+    height: 40px;
+    margin: 10px;
+}
+
+.submitbt{
+    background-color: #5ed3b1;
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    border: 1px solid #5ed3b1;
+}

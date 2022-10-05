@@ -1,0 +1,16 @@
+.wrap {
+    display: flex;
+    justify-content: space-between;
+    background-color:seagreen;
+    height: 50px;
+    align-items: center;
+    border: 1px solid grey;
+}
+
+.headername {
+    margin-left: 20px;
+}
+
+.headerlang {
+    margin-right: 20px;
+}
